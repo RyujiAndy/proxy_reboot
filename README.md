@@ -7,7 +7,7 @@
 </a>
 
 <a>
-Script Utilizzato per la reggistrazione automatica degli utenti di reboot.ms sul database per il proxy (squid3) con autentificaziobne radius (freeradius)</a>
+Script Utilizzato per la registrazione automatica degli utenti di reboot.ms sul database per il proxy (squid3) con autentificaziobne radius (freeradius)</a>
 
 <a>
 <big>
