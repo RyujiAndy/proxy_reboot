@@ -38,3 +38,9 @@ flush privileges;
 exit
 </a>
 
+<a>
+<u>
+P.S.: lo script funziona accoppiato con il cms XenForo.
+</u>
+</a>
+
